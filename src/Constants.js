@@ -1,0 +1,1 @@
+export const MEAN_API_URL = ' https://stormy-shore-55186.herokuapp.com/api'
